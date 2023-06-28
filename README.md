@@ -2,6 +2,7 @@
 ## I am a junior full stack developer and currently looking for a job.
 
 ![image](https://github.com/TomaszKraczek/TomaszKraczek/assets/106514210/9a8aba52-f652-42e4-87fe-89a735273cbe)
+![spring](https://github.com/TomaszKraczek/TomaszKraczek/assets/106514210/266561b6-0f70-41dc-92df-a000938a385b)
 ![image](https://github.com/TomaszKraczek/TomaszKraczek/assets/106514210/c2a36d3f-271d-459b-999a-2df8058f60d2)
 
 
