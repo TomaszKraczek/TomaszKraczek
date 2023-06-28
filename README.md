@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello! My name is Tomasz Kraczek 👋
+## I am a junior full stack developer and currently looking for a job.
+
+![image](https://github.com/TomaszKraczek/TomaszKraczek/assets/106514210/a2c0a180-450b-431e-820e-9ff3eaba5f16)
+![image](https://github.com/TomaszKraczek/TomaszKraczek/assets/106514210/0dfa49f9-c679-4a06-8e86-ab2b68f1d01e)
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TomaszKraczek)](https://git.io/streak-stats)
 <!--
